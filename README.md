@@ -3,7 +3,7 @@
 <img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/img-001.png"/>
 
 
-Essa aplicação informa qual é a faixa etária de idade informada no input "Sua Idade". 
+Essa aplicação informa qual é a faixa etária de idade da idade que foi digitada no campo input "Sua Idade". 
 
 
 ## Como executar essa aplicação
@@ -13,7 +13,7 @@ Para usar essa aplicação é só fazer o dowload do repositório e abrir o arqu
 
 ## Como usar essa aplicação
 
-É só clicar no campo idade e digitar a sua idade depois clicar no botão verificar, no campo "Visualize aqui" para mudar para "Carregando..." e depois de meio segundo vai mudar para a faixa etária correspondente a idade informada.
+É só clicar no campo "Sua Idade" e digitar a sua idade depois clicar no botão "Verificar", no campo "Visualize aqui" vai mudar para "Carregando..." e depois de meio segundo vai mudar para a faixa etária correspondente a idade informada.
 
 <img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/img-002.png"/>
 
@@ -21,4 +21,4 @@ Para usar essa aplicação é só fazer o dowload do repositório e abrir o arqu
 
 ## Considerações finais
 
-Essa aplicação foi desenvolvida para aplicar os conceitos de lógica de programação e DOM
+Essa aplicação foi desenvolvida para aplicar os conceitos em JavaScript de lógica de programação e DOM
