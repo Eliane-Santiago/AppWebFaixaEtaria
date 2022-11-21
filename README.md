@@ -1,6 +1,6 @@
 # App Descubra-Faixa-Idade
 
-<img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/img-001.png"/>
+<img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/AppWebIdentificarFaixaEtaria/img-001.png"/>
 
 
 Essa aplicação informa qual é a faixa etária de idade da idade que foi digitada no campo input "Sua Idade". 
@@ -15,9 +15,9 @@ Para usar essa aplicação é só fazer o dowload do repositório e abrir o arqu
 
 É só clicar no campo "Sua Idade" e digitar a sua idade depois clicar no botão "Verificar", no campo "Visualize aqui" vai mudar para "Carregando..." e depois de meio segundo vai mudar para a faixa etária correspondente a idade informada.
 
-<img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/img-002.png"/>
+<img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/AppWebIdentificarFaixaEtaria/img-002.png"/>
 
-<img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/img-003.png"/>
+<img src="https://github.com/Eliane-Santiago/AppWebFaixaEtaria/blob/main/AppWebIdentificarFaixaEtaria/img-003.png"/>
 
 ## Considerações finais
 
